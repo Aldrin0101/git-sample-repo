@@ -7,4 +7,6 @@ git config user.email a.aldrin@outlook.com
 git add
 git commit -m ""
 git log
-Git diff <filename>
+git diff <filename>
+git remote add origin https://github.com/Aldrin0101/git-sample-repo
+git push -u origin master
