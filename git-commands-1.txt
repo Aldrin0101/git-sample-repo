@@ -4,7 +4,7 @@ git config --global user.name "Aldrin"
 git config --global user.email a.aldrin@outlook.com
 git config user.name "Aldrin"
 git config user.email a.aldrin@outlook.com
-git add
-git commit -m ""
+git add <filename>
+git commit -m "comments"
 git log
 Git diff <filename>
