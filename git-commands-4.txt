@@ -1,0 +1,10 @@
+git status
+git init Initializes the git repository
+git config --global user.name "Aldrin"
+git config --global user.email a.aldrin@outlook.com
+git config user.name "Aldrin"
+git config user.email a.aldrin@outlook.com
+git add
+git commit -m ""
+git log
+Git diff <filename>

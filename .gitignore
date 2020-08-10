@@ -1,0 +1,6 @@
+.cache/
+.pytest/
+.idea/
+*.log
+*__cache__/
+*__pycache__/
